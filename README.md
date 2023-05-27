@@ -7,7 +7,11 @@
 <div align="center">
   
 # Hi!! I'm Uchan Jung. Nice to meet You😊      
-### I was born and live in Korea republic. and I am a student at Sejong Univ      
+### I was born and live in Korea republic. and I am a student at Sejong Univ   
+**I am studing ROBOTICS, AI and SLAM**  
+  
+<br>
+  
 **If you want to contact me, Click the ICON**
   
 <div style="display:flex; flex-direction:row;">
