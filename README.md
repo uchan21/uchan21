@@ -5,7 +5,7 @@
 <br>
 
 # Hi!! I'm Uchan Jung. Nice to meet You😊      
-### I was born and live in Korea republic and I am a student at Sejong Univ in Korea republic.   
+### I was born and live in Korea republic. and I am a student at Sejong Univ      
 **If you want to contact me, Click the ICON**
   
 <div style="display:flex; flex-direction:row;">
