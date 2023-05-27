@@ -34,14 +34,14 @@
 <div style="display:flex; flex-direction:row;">
   
   
-  ### Operating System   
+  ### 💾Operating System   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> 
   <br>
   
   
-  ### Tool   
+  ### 💡Tool   
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
@@ -49,13 +49,13 @@
   <br>
   
   
-  ### Language   
+  ### 💻Language   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
-  ### Hardware   
+  ### 🪛Hardware   
   <img src="https://img.shields.io/badge/Rasberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> 
   <br>
