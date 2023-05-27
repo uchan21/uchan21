@@ -4,6 +4,8 @@
   
 <br>
 
+<div align="center">
+  
 # Hi!! I'm Uchan Jung. Nice to meet You😊      
 ### I was born and live in Korea republic. and I am a student at Sejong Univ      
 **If you want to contact me, Click the ICON**
@@ -20,16 +22,36 @@
     </a>
 </div><br>
   
-<br>
+</div><br>
   
+<div style="display:flex; flex-direction:row;">
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uchan21&theme=tokyo-night&bg_color=fffaeb&radius=8&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<br>
   
 [![uchan21's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchan21&show_icons=true&bg_color=fffaeb)](https://github.com/uchan21/github-readme-stats)
-  
-<br>
-  
-## 🔧STACK🔧
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchan21&layout=compact)](https://github.com/uchan21/github-readme-stats)
 
 
+  
+</div><br>
+  
+## ✨BAEKJOON Tier  
+  
+<div align="center">  
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=projess)](https://solved.ac/projess)
+  
+</div>
+  
+<div align="left">  
+  
+## 🔧Skill🔧
+
+</div>
 
 <div style="display:flex; flex-direction:row;">
   
@@ -60,6 +82,8 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> 
   <br>
 </div><br>
+  
+
 
 ---
 
