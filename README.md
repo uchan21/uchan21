@@ -6,7 +6,7 @@
 
 # Hi!! I'm UChan Jung. Nice to meet You😊      
 ### I was born and live in Korea republic and I am a student at Sejong Univ in Korea republic.   
-If you want to contact me, **Click the ICON**
+**If you want to contact me, Click the ICON**
   
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/u_chan_jj/">
