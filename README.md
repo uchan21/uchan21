@@ -48,7 +48,7 @@
 <div align="center">  
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=projess)](https://solved.ac/projess)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=projess)](https://solved.ac/projess)
   
 </div>
   
